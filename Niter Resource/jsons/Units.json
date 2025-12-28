@@ -20,7 +20,7 @@
 		"uniqueTo": "France",
 		"movement": 2,
 		"strength": 29,
-		"cost": 150,
+		"cost": 1500,
 		"requiredTech": "Gunpowder",
 		"requiredResource": "Niter",
 		"upgradesTo": "Rifleman",
