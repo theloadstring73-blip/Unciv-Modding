@@ -42,4 +42,12 @@
 		"improvement": "Camp",
 		"improvementStats": {"gold": 1}
 	},
+{
+		"name": "Trufgg",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Forest","Marsh","Jungle"],
+		"gold": 20,
+		"improvement": "Camp",
+		"improvementStats": {"gold": 1}
+	},
 ]
